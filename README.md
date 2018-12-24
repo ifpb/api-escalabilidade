@@ -1,0 +1,1 @@
+Exemplo para demonstrar escalabilidade em sistemas distribuídos, usando API com Python Flask e execução com JMeter.
